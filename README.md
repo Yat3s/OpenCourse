@@ -7,6 +7,8 @@ A course of android project in iMooc.
   
 ## Outline / 概要
   该项目主要是一个多人众包生成的演播平台，简而言之就是多人参与讨论同一个话题的文字直播平台。该项目将会从：`项目Idea--》项目PRD的撰写--》UI设计稿的设计思路--》项目初始架构思想--》功能编码--》测试部署上线`六个步骤讲解，其中前三个步骤将会简要的做概要总结，其中着重讲解：`项目初始架构思想--》功能编码--》测试部署上线`这三个步骤，课程将不仅仅会让学员了解一个Android项目从0-1的过程，而且还更加注重编码规范，设计理念，架构思想等多个范畴，让学员真正的能够享受到写一个好的代码，一个好的架构所带来的乐趣，并且能够让用户学会如何高效率的开发，享受编程的乐趣。
+  ![image](https://cloud.githubusercontent.com/assets/14801837/20389581/3c874980-ad05-11e6-8963-fba44c7cece6.png)
+
 
 ## Catalogue / 目录
 >
@@ -46,7 +48,6 @@ A course of android project in iMooc.
 - 同层级如果能够依靠Dagger解耦就尽量解耦。
 - 其中Application层将按照功能视图相关、CustomView、Service进行分包。
 - 现在的package也将按照这个结构进行分包。
-- 在项目壮大将会给部分module分成一个git submodule来管理
 
 
 ## Development / 开发相关
