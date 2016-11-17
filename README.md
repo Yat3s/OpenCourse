@@ -10,7 +10,7 @@ A course of android project in iMooc.
 
 ## Catalogue / 目录
 
-    - 项目概要
+> 项目概要
   * 项目简介和整体项目构建思路
     * 我们将开发一个什么样的玩意
     * 如何设计出一份好的文档
