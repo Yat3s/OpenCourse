@@ -36,3 +36,21 @@ A course of android project in iMooc.
     * 如果做一个好玩又优雅的登录注册功能
   * 主流功能
     * 主流Feed的设计
+    
+    
+## Architecture / 项目架构
+![image](https://cloud.githubusercontent.com/assets/14801837/20388753/57605444-ad01-11e6-8895-6469ca80bd52.png)
+
+其中说明几点：
+- 自上向下不能存在任何依赖关系，从上而下或者同层可以存在依赖关系。
+- 同层级如果能够依靠Dagger解耦就尽量解耦。
+- 其中Application层将按照功能视图相关、CustomView、Service进行分包。
+- 现在的package也将按照这个结构进行分包。
+- 在项目壮大将会给部分module分成一个git submodule来管理
+
+
+## Development / 开发相关
+介绍一个版本的完整开发流程，以及日常Bug的反馈
+![image](https://cloud.githubusercontent.com/assets/14801837/20388870/d1637b2c-ad01-11e6-81f2-19b270cd04b3.png)
+
+
