@@ -20,9 +20,11 @@ A course of android project in iMooc.
     * 将会用到的第三方框架
     * MVVM结构的设计思路
     * 功能模块的分包理念
-    * RxJava/Retrofit/DataBind的简要介绍
+    * RxJava/Retrofit/DataBinding的简要介绍
 * 基础底层搭建
   * 搭建一个好的基层对一个项目是多么重要
+  * 工欲善其事必先利其器
+  * Gradle的优化和加速
   * Global全局的基础搭建
   * Common通用层的基础搭建
   * Network网络层的基础搭建
