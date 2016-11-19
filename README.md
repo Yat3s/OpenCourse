@@ -52,10 +52,14 @@ A course of android project in iMooc.
   * 其他页面
     * 设置页面的开发
     * 通知页面的开发
-  * 其他
+  * 其他设计
     * 如何处理全局异常
     * 如何做好缓存设计
     * 如何检查OOM的问题
+  * 总结
+    * 敏捷性开发
+    * 项目总结
+    
     
 ## Architecture / 项目架构
 ![image](https://cloud.githubusercontent.com/assets/14801837/20388753/57605444-ad01-11e6-8895-6469ca80bd52.png)
